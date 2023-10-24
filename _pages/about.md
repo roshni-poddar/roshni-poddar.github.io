@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_Roshni.png
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -15,7 +15,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 I am a research fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I work with [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/), [Dr. Mohit Jain](https://mohitjaindr.github.io/), and [Dr. Pratyush Kumar](https://www.microsoft.com/en-us/research/people/pratykumar/). 
 
-My research interests lie at the intersection of Human-Computer Interaction (HCI) and accessibility. I am deeply passionate about building and evaluating accessible solutions to facilitate learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) through a participatory approach, with a particular focus on the Global South. 
+My research interests lie at the intersection of Human-Computer Interaction (HCI) and accessibility. 
+I am deeply passionate about co-designing and evaluating accessible solutions that enable learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) for people with disabilities, with a focus on the Global South.
 
 Current projects:
 1. **SignIt!** - a sign language quiz app co-designed with the DHH community.
