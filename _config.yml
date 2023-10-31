@@ -126,10 +126,10 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -257,8 +257,8 @@ display_tags: [] # this tags will be dispalyed on the front page of your blog
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Poddar]
+  first_name: [Roshni]
 
   style: apa
   locale: en
