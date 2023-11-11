@@ -95,9 +95,9 @@ The study protocol maintained consistency across both remote and in-person sessi
 ### Design Recommendations
 These are some of the design recommendations from the paper:
 <ol>
-  <li>Provide quick layout options like one-click actions for adding/removing video tiles based on hearing ability, a revert button for layout changes, and dynamic templates to suit various conversation needs.</li>
-  <li>In future versions, make notifications less intrusive, allowing recipients to acknowledge them. Consider priority based on the communication context.</li>
-  <li>Videoconferencing platforms can improve user profiles by enabling users to add sign names through short self-recorded videos.</li>
+  <li>Providing quick layout options like one-click actions for adding/removing video tiles based on hearing ability, a revert button for layout changes, and dynamic templates to suit various conversation needs.</li>
+  <li>Making preset message notifications less obstructive and allowing recipients to acknowledge them. It is also important to consider priority of the notification based on the communication context.</li>
+  <li>Videoconferencing platforms may improve user profiles by enabling users to add sign names through short self-recorded videos.</li>
 </ol>
 
 
