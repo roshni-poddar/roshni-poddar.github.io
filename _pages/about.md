@@ -2,26 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Email - t-ropoddar [@] microsoft [.] com
 profile:
   align: right
   image: prof_pic_Roshni.png
   image_circular: false # crops the image to make it circular
+  alt: "A close-up picture of a smiling Indian woman wearing glasses and a dark blue saree."
   address: >
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a research fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I work with [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/), [Dr. Mohit Jain](https://mohitjaindr.github.io/), and [Dr. Pratyush Kumar](https://www.microsoft.com/en-us/research/people/pratykumar/). 
+I am a research fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I work with [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/) and [Dr. Mohit Jain](https://mohitjaindr.github.io/).
 
 My research interests lie at the intersection of Human-Computer Interaction (HCI) and accessibility. 
-I am deeply passionate about co-designing and evaluating accessible solutions that enable learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) for people with disabilities, with a focus on the Global South.
+At Microsoft Research, I enjoy co-designing and evaluating accessible solutions that enable learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) for people with disabilities, with a focus on the Global South.
 
-Current projects:
+Broadly, my interest lies in systems that promote <b>learning, creativity, and play</b> and am looking forward to leverage advanced technologies like <b>generative AI</b> for this purpose. I firmly believe that we need to consider the <b>impact of factors such as race, socioeconomic status, stigma, education level, and infrastructure</b> to conduct more inclusive accessibility research. 
+
+
+<h4><b>I'm looking for PhD positions starting Fall 2024!</b></h4>
+
+During my PhD, I am excited to collaborate and co-design with diverse communities with disabilities to build and evaluate systems that acknowledge and incorporate the complexities of identity and environment. 
+
+
+
+<!-- Current projects:
 1. **SignIt!** - a sign language quiz app co-designed with the DHH community.
 2. **SEEDS** - an educational experience delivery system for children with vision impairments.
-3. **Jod** - a video conferencing tool to facilitate communication within mixed hearing ability groups.
+3. **Jod** - a video conferencing tool to facilitate communication within mixed hearing ability groups. -->
 
 
 
