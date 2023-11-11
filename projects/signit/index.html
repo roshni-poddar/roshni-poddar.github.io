@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <!-- Head -->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>SignIt! | Roshni  Poddar</title>
+    <meta name="author" content="Roshni  Poddar">
+    <meta name="description" content="a sign language based quiz platform">
+    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
+    
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="https://roshni-poddar.github.io/projects/signit/">
+    
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
+
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Roshni </span>Poddar</a>
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/">about</a>
+              </li>
+              
+              <!-- Blog -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/publications/">publications</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/projects/">projects</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/repositories/">repositories</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/cv/">cv</a>
+              </li>
+
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Scrolling Progress Bar -->
+      <progress id="progress" value="0">
+        <div class="progress-container">
+          <span class="progress-bar"></span>
+        </div>
+      </progress>
+    </header>
+
+
+    <!-- Content -->
+    <div class="container mt-5">
+      <!-- page.html -->
+        <div class="post">
+
+          <article>
+            <h1 id="signit-an-android-game-for-bilingual-play">SignIt! An Android Game for Bilingual Play</h1>
+
+<p>SignIt! is a sign language-based quiz platform co-designed with the Indian Deaf and Hard-of-Hearing community. Here, I’ll describe the three primary features of SignIt!.</p>
+
+<style>
+.custom-img {
+  height: 300px;
+  width: auto; /* maintain aspect ratio */
+  max-width: 100%; /* max width is the width of the parent element */
+}
+</style>
+
+<h3 id="feature-1-sign-language-based-quizzes">Feature 1: Sign language-based quizzes</h3>
+
+<p>The quizzes contain a series of multiple-choice questions. The question interface contains the question sign language video and a grid of option sign language videos below it. Each video contains a hint button to toggle the visibility of the corresponding English translation. This interface supports the player in discovering and learning new vocabulary in both languages while playing quizzes.</p>
+
+<div class="row">
+
+<div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+
+<figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/SignQuizzes.png" class="custom-img rounded z-depth-1" width="auto" height="350 px" alt="Two screenshots showing the question interface of SignIt!. In the first screenshot, the sign language video of the question is at the top with a grid of four option videos below it. In the second screenshot is the same as the first one except the English translation of the Question and third option is shown." title="question interface" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+
+</div>
+
+</div>
+
+<div class="caption">
+
+Question Interface of a SignIt! quiz
+
+</div>
+
+<h3 id="feature-2-social-gameplay">Feature 2: Social Gameplay</h3>
+
+<p>There are two modes to play socially:</p>
+
+<ul>
+<li> <b>Live mode: </b>The live mode allows multiple players to play a quiz together in real-time.</li>
+<li> <b>Group mode: </b> The group members play group quizzes asynchronously and compete on a common leaderboard.</li>
+</ul>
+
+<div class="row justify-content-sm-center">
+
+<div class="col-sm-4 mt-3 mt-md-0">
+
+<figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/SignIt_livemode.jpg" class="custom-img rounded z-depth-1" width="auto" height="350 px" alt="A screenshot of a score screen in live mode. It contains the points awarded in the current question, total score, and a leaderboard of three players in descending order of their scores." title="Live mode score screen" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture><figcaption class="caption">Live mode score screen</figcaption>
+
+</figure>
+
+
+</div>
+
+<div class="col-sm-4 mt-3 mt-md-0">
+
+<figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/SignIt_groupMode.png" class="custom-img rounded z-depth-1" width="auto" height="350 px" alt="A screenshot of the group details screen. It shows the group image, creator, common leaderboard showing top three players, and a list of group quizzes." title="Group details screen" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture><figcaption class="caption">Group details screen</figcaption>
+
+</figure>
+
+
+</div>
+
+</div>
+
+<h3 id="feature-3-content-creation">Feature 3: Content creation</h3>
+
+<p>SignIt! allows players to design their own quizzes based on their interests and knowledge, and share them with others. To create questions, players have two options:</p>
+
+<ul>
+<li> <b>Create questions from scratch:</b> The player needs to add the question and the options in both sign language and English. They also need to mark the correct answer among the options. </li>
+<li> <b>Find questions from existing sources:</b> The player can select the text of multiple questions from the repository and add them to their quiz. They need to add the corresponding sign language videos for each question and their options. </li>
+</ul>
+
+<p>Each question of a quiz must have at least two options. To record the sign language videos, the player will be guided by a video recording interface that helps them position themselves correctly before the recording starts.</p>
+
+<p>Quiz creation leads to labelled sign language data collection. An interesting enhancement to this feature could be to offer customizable avatars for quiz creators. This would add personalization and help maintain anonymity by representing videos through these avatars.</p>
+
+<div class="row justify-content-center">
+
+<div class="col-sm-4 mt-3 mt-md-0">
+
+<figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/CreateQuizInterface.jpg" class="custom-img rounded z-depth-1" width="auto" height="350 px" alt="A screenshot of the create quiz interface with options to change the quiz image, add quiz title, and two buttons to create and find questions respectively." title="Create Quiz Interface" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture><figcaption class="caption">Create quiz screen</figcaption>
+
+</figure>
+
+
+</div>
+
+<div class="col-sm-4 mt-3 mt-md-0">
+
+<figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/CreateQuizRecord.jpg" class="custom-img rounded z-depth-1" width="auto" height="350 px" alt="A video recording interface with the prompt 'Good' to indicate that their upper body is visible" title="Video Recording Interface" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture><figcaption class="caption">Video recording interface</figcaption>
+
+</figure>
+
+
+</div>
+</div>
+
+<hr>
+
+<p>Thank you so much for reading! This work would not be possible without the support of the <a href="https://nish.ac.in/" rel="external nofollow noopener" target="_blank">National Institute of Speech and Hearing (NISH)</a>. NISH is a comprehensive multi-purpose institute focusing on the identification, intervention, rehabilitation and education of individuals with disabilities.</p>
+
+<p>We’re in the process of open-sourcing the code of SignIt! This platform is designed to be language-agnostic, accommodating any sign language and spoken language (both of which need to be specified while creating the quiz).</p>
+
+<p>We envision organizations setting up their own storage accounts for data and hosting SignIt! independently. The anonymous data from the videos and their labels could be streamlined into an open-source repository. This could serve as a valuable resource for advancing research in sign language recognition using machine learning.</p>
+
+          </article>
+
+        </div>
+
+    </div>
+
+    <!-- Footer -->    
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        © Copyright 2023 Roshni  Poddar. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
+
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
+  <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script defer src="/assets/js/common.js"></script>
+  <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
+
+    
+  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+  <script async src="https://badge.dimensions.ai/badge.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+    
+
+<!-- Scrolling Progress Bar -->
+<script type="text/javascript">
+  /*
+   * This JavaScript code has been adapted from the article 
+   * https://css-tricks.com/reading-position-indicator/ authored by Pankaj Parashar, 
+   * published on the website https://css-tricks.com on the 7th of May, 2014.
+   * Couple of changes were made to the original code to make it compatible 
+   * with the `al-foio` theme.
+   */
+  const progressBar = $("#progress");
+  /*
+   * We set up the bar after all elements are done loading.
+   * In some cases, if the images in the page are larger than the intended
+   * size they'll have on the page, they'll be resized via CSS to accomodate
+   * the desired size. This mistake, however, breaks the computations as the
+   * scroll size is computed as soon as the elements finish loading.
+   * To account for this, a minimal delay was introduced before computing the
+   * values.
+   */
+  window.onload = function () {
+    setTimeout(progressBarSetup, 50);
+  };
+  /*
+   * We set up the bar according to the browser.
+   * If the browser supports the progress element we use that.
+   * Otherwise, we resize the bar thru CSS styling
+   */
+  function progressBarSetup() {
+    if ("max" in document.createElement("progress")) {
+      initializeProgressElement();
+      $(document).on("scroll", function() {
+        progressBar.attr({ value: getCurrentScrollPosition() });
+      });
+      $(window).on("resize", initializeProgressElement);
+    } else {
+      resizeProgressBar();
+      $(document).on("scroll", resizeProgressBar);
+      $(window).on("resize", resizeProgressBar);
+    }
+  }
+  /*
+   * The vertical scroll position is the same as the number of pixels that
+   * are hidden from view above the scrollable area. Thus, a value > 0 is
+   * how much the user has scrolled from the top
+   */
+  function getCurrentScrollPosition() {
+    return $(window).scrollTop();
+  }
+
+  function initializeProgressElement() {
+    let navbarHeight = $("#navbar").outerHeight(true);
+    $("body").css({ "padding-top": navbarHeight });
+    $("progress-container").css({ "padding-top": navbarHeight });
+    progressBar.css({ top: navbarHeight });
+    progressBar.attr({
+      max: getDistanceToScroll(),
+      value: getCurrentScrollPosition(),
+    });
+  }
+  /*
+   * The offset between the html document height and the browser viewport
+   * height will be greater than zero if vertical scroll is possible.
+   * This is the distance the user can scroll
+   */
+  function getDistanceToScroll() {
+    return $(document).height() - $(window).height();
+  }
+
+  function resizeProgressBar() {
+    progressBar.css({ width: getWidthPercentage() + "%" });
+  }
+  // The scroll ratio equals the percentage to resize the bar
+  function getWidthPercentage() {
+    return (getCurrentScrollPosition() / getDistanceToScroll()) * 100;
+  }
+</script>
+
+  </body>
+</html>
