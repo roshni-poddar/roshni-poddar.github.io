@@ -58,7 +58,7 @@ There are two modes to play socially:
 
 <div class="col-sm-4 mt-3 mt-md-0">
 
-{% include figure.html path="assets/img/SignIt_groupMode.png" title="Group details screen" class="custom-img rounded z-depth-1" height="350 px" alt="A screenshot of the group details screen. It shows the group image, creator, common leaderboard showing top three players, and a list of group quizzes." caption="Group details screen"%}
+{% include figure.html path="assets/img/SignIt_groupmode.jpg" title="Group details screen" class="custom-img rounded z-depth-1" height="350 px" alt="A screenshot of the group details screen. It shows the group image, creator, common leaderboard showing top three players, and a list of group quizzes." caption="Group details screen"%}
 
 </div>
 
