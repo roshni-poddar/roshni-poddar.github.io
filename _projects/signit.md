@@ -71,7 +71,7 @@ SignIt! allows players to design their own quizzes based on their interests and 
 
 <ul>
 <li> <b>Create questions from scratch:</b> The player needs to add the question and the options in both sign language and English. They also need to mark the correct answer among the options. </li>
-<li> <b>Find questions from existing sources:</b> The player can select the text of multiple questions from the repository and add them to their quiz. They need to add the corresponding sign language videos for each question and their options. </li>
+<li> <b>Find questions from a pre-made repository:</b> The player can select the text of multiple questions from the repository in the app and add them to their quiz. They need to add the corresponding sign language videos for each question and their options. </li>
 </ul>
 
 Each question of a quiz must have at least two options. To record the sign language videos, the player will be guided by a video recording interface that helps them position themselves correctly before the recording starts.
