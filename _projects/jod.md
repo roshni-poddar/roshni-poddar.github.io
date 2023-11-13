@@ -107,6 +107,7 @@ In my view, the focus group discussions were more effective than individual inte
 
 <hr/>
 
-Please find the full paper at this link - <a href="/assets/pdf/assets23_5.pdf">Jod Paper</a>
+<p>Please find the full paper at this link - <a href="/assets/pdf/assets23_5.pdf">Jod Paper</a></p>
+The Jod code has been open-sourced - <a href="https://github.com/microsoft/Accessible-Connect">Jod code</a>
 
 We’d like to express our sincere thanks to the [WinVinaya foundation](https://winvinayafoundation.org/) for their invaluable support in this study. I encourage you to support their mission of providing employment opportunities for people with disabilities. On a personal note, it was a great experience to collaborate with [Anant Mittal](https://anantmittal.github.io/#/) and [Meghna Gupta](https://gupta-meghna64.github.io/) for the first time on this research. I learned a lot from them and was truly inspired by their dedication, hard work, and kindness.
