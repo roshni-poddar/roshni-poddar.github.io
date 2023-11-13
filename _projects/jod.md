@@ -100,12 +100,13 @@ These are some of the design recommendations from the paper:
   <li>Videoconferencing platforms may improve user profiles by enabling users to add sign names through short self-recorded videos.</li>
 </ol>
 
+### Towards Conducting Inclusive Mixed Hearing Studies (a Discussion point)
+The in-person study sessions, especially the charades game, played a crucial role in fostering camaraderie among participants. It helped them get more comfortable with each other and encouraged direct communication. The focus group discussions allowed for productive conversations between hearing and DHH participants and provided valuable feedback on feature suggestions. 
 
-### Insights from In-Person Sessions
-The in-person study sessions, especially the charades game, played a crucial role in fostering camaraderie among participants. It helped them get more comfortable with each other and encouraged direct communication. The focus group discussions allowed for productive conversations between hearing and DHH participants and provided valuable feedback on feature suggestions. I believe that the these sessions proved more effective than individual interviews would have been.
+In my view, the focus group discussions were more effective than individual interviews might have been. There were moments when a participant proposed a feature addition or enhancement, and participants from the other ability group offered insightful criticism and feedback. This dynamic exchange led to a deeper understanding of the challenges and the proposed solutions among participants.
 
 <hr/>
 
-Please find the full paper - <a href="/assets/pdf/assets23_5.pdf">Jod Paper</a>
+Please find the full paper at this link - <a href="/assets/pdf/assets23_5.pdf">Jod Paper</a>
 
 We’d like to express our sincere thanks to the [WinVinaya foundation](https://winvinayafoundation.org/) for their invaluable support in this study. I encourage you to support their mission of providing employment opportunities for people with disabilities. On a personal note, it was a great experience to collaborate with [Anant Mittal](https://anantmittal.github.io/#/) and [Meghna Gupta](https://gupta-meghna64.github.io/) for the first time on this research. I learned a lot from them and was truly inspired by their dedication, hard work, and kindness.
