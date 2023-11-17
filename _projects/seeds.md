@@ -2,7 +2,7 @@
 layout: page
 title: SEEDS
 description: an experience delivery system for children with vision impairments (currently incomplete)
-img: assets/img/SEEDS_cover.jpg
+img: assets/img/Seeds_cover_small.png
 importance: 2
 category: work
 ---

@@ -5,9 +5,9 @@ permalink: /
 subtitle: Email - t-ropoddar [@] microsoft [.] com
 profile:
   align: right
-  image: prof_pic_Roshni.png
+  image: prof_pic_Roshni.jpeg
   image_circular: false # crops the image to make it circular
-  alt: "A close-up picture of a smiling Indian woman wearing glasses and a dark blue saree."
+  alt: "A close-up picture of a smiling Indian woman wearing glasses and a dark brown coat with a fur collar."
   address: >
 
 news: false  # includes a list of news items
@@ -19,12 +19,19 @@ I am a research fellow at [Microsoft Research India](https://www.microsoft.com/e
 My research interests lie at the intersection of Human-Computer Interaction (HCI) and accessibility. 
 At Microsoft Research, I enjoy co-designing and evaluating accessible solutions that enable learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) for people with disabilities, with a focus on the Global South.
 
-Broadly, my interest lies in systems that promote <b>learning, creativity, and play</b> and am looking forward to leverage advanced technologies like <b>generative AI</b> for this purpose. I firmly believe that we need to consider the <b>impact of factors such as race, socioeconomic status, stigma, education level, and infrastructure</b> to conduct more inclusive accessibility research. 
+
+Broadly, I am interested in
+<b>co-designing with marginalised communities with disabilities to build and evaluate systems</b> that promote <b>learning,
+creativity, play, and mixed-ability collaboration</b> and am excited to leverage recent technologies like <b>generative AI</b>
+for this purpose. I firmly believe that we need to consider the impact of factors such as race, stigma, socioeconomic
+status, and infrastructure to conduct more inclusive accessibility research.
+
+<!-- Broadly, my interest lies in systems that promote <b>learning, creativity, and play</b> and am looking forward to leverage advanced technologies like <b>generative AI</b> for this purpose. I firmly believe that we need to consider the <b>impact of factors such as race, socioeconomic status, stigma, education level, and infrastructure</b> to conduct more inclusive accessibility research.  -->
 
 
 <h4><b>I'm looking for PhD positions starting Fall 2024!</b></h4>
 
-During my PhD, I am excited to collaborate and co-design with diverse communities with disabilities to build and evaluate systems that acknowledge and incorporate the complexities of identity and environment. 
+<!-- During my PhD, I am excited to collaborate and co-design with diverse communities with disabilities to build and evaluate systems that acknowledge and incorporate the complexities of identity and environment.  -->
 
 
 

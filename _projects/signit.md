@@ -2,7 +2,7 @@
 layout: page
 title: SignIt!
 description: a sign language based quiz platform
-img: assets/img/SignIt_project_cover.png
+img: assets/img/SignIt_project_cover_small.png
 importance: 1
 category: work
 ---

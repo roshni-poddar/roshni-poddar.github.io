@@ -2,7 +2,7 @@
 layout: page
 title: Jod
 description: a videoconferencing platform for mixed hearing groups
-img: assets/img/Jod_cover.jpeg
+img: assets/img/Jod_cover_small.jpeg
 importance: 3
 category: work
 ---
