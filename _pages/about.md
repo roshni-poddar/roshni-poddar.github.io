@@ -29,7 +29,7 @@ status, and infrastructure to conduct more inclusive accessibility research.
 <!-- Broadly, my interest lies in systems that promote <b>learning, creativity, and play</b> and am looking forward to leverage advanced technologies like <b>generative AI</b> for this purpose. I firmly believe that we need to consider the <b>impact of factors such as race, socioeconomic status, stigma, education level, and infrastructure</b> to conduct more inclusive accessibility research.  -->
 
 
-<h4><b>I'm looking for PhD positions starting Fall 2024!</b></h4>
+
 
 <!-- During my PhD, I am excited to collaborate and co-design with diverse communities with disabilities to build and evaluate systems that acknowledge and incorporate the complexities of identity and environment.  -->
 
