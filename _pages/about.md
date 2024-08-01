@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email - t-ropoddar [@] microsoft [.] com
+subtitle: roshnipoddar [@] microsoft [.] com
 profile:
   align: right
   image: prof_pic_Roshni.jpeg
