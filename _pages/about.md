@@ -14,15 +14,14 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+Currently:
+I am a software engineer at Microsoft.
+
+Previous bio:
 I am a research fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I work with [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/) and [Dr. Mohit Jain](https://mohitjaindr.github.io/).
 
 My research interests lie at the intersection of Human-Computer Interaction (HCI) and accessibility. 
-At Microsoft Research, I enjoy co-designing and evaluating accessible solutions that enable learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) for people with disabilities, with a focus on the Global South.
-
-
-Broadly, I am interested in
-<b>co-designing with communities with disabilities to build and evaluate systems</b> that promote <b>learning,
-creativity, play, and mixed-ability collaboration</b>. I firmly believe that we need to consider the impact of factors such as race, stigma, socioeconomic
+At Microsoft Research, I enjoy co-designing and evaluating accessible solutions that enable learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) for people with disabilities, with a focus on the Global South. I firmly believe that we need to consider the impact of factors such as race, stigma, socioeconomic
 status, and infrastructure to conduct more inclusive accessibility research.
 
 <!-- Broadly, my interest lies in systems that promote <b>learning, creativity, and play</b> and am looking forward to leverage advanced technologies like <b>generative AI</b> for this purpose. I firmly believe that we need to consider the <b>impact of factors such as race, socioeconomic status, stigma, education level, and infrastructure</b> to conduct more inclusive accessibility research.  -->
