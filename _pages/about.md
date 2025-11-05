@@ -14,15 +14,16 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Currently:
-I am a software engineer at Microsoft.
 
-Previous bio:
-I am a research fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I work with [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/) and [Dr. Mohit Jain](https://mohitjaindr.github.io/).
+**About me:**
 
-My research interests lie at the intersection of Human-Computer Interaction (HCI) and accessibility. 
-At Microsoft Research, I enjoy co-designing and evaluating accessible solutions that enable learning through play ([Ludic Design for Accessibility](https://www.ludicdesign.org/)) for people with disabilities, with a focus on the Global South. I firmly believe that we need to consider the impact of factors such as race, stigma, socioeconomic
-status, and infrastructure to conduct more inclusive accessibility research.
+I am currently a **Software Engineer** on the Windows Empower team at Microsoft, where I work on improving the user experience of **Narrator, the built-in screen reader in Windows**, with M365 apps. 
+
+If you’re on a Windows laptop, you can **try Narrator by pressing Ctrl + Windows + Enter to turn it on or off**. I’d love to hear your feedback — and if you’re interested in learning Narrator fundamentals, feel free to get in touch!
+
+Previously, I was a research fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I worked with [Dr. Manohar Swaminathan](https://www.microsoft.com/en-us/research/people/swmanohmicrosoft-com/) and [Dr. Mohit Jain](https://mohitjaindr.github.io/). My research interests lie at the intersection of Human-Computer Interaction (HCI) and accessibility. 
+
+At Microsoft Research, I co-designed, developed, and evaluated accessible technologies that enable **learning through play** with **teachers and children with visual impairments** and the **Deaf and Hard of Hearing community**. I also published and presented a few research papers, which was an incredibly rewarding and fun experience.
 
 <!-- Broadly, my interest lies in systems that promote <b>learning, creativity, and play</b> and am looking forward to leverage advanced technologies like <b>generative AI</b> for this purpose. I firmly believe that we need to consider the <b>impact of factors such as race, socioeconomic status, stigma, education level, and infrastructure</b> to conduct more inclusive accessibility research.  -->
 
